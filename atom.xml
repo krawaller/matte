@@ -4,7 +4,7 @@
   <title><![CDATA[Mattebloggen]]></title>
   <link href="http://krawaller.github.com/matte/atom.xml" rel="self"/>
   <link href="http://krawaller.github.com/matte/"/>
-  <updated>2011-12-17T17:26:11+01:00</updated>
+  <updated>2011-12-17T23:00:32+01:00</updated>
   <id>http://krawaller.github.com/matte/</id>
   <author>
     <name><![CDATA[David Waller]]></name>
@@ -19,6 +19,11 @@
     <updated>2011-12-17T16:45:00+01:00</updated>
     <id>http://krawaller.github.com/matte/blog/2011/12/17/testing</id>
     <content type="html"><![CDATA[<p>WEE WUU</p>
+
+<!-- more -->
+
+
+<p>Waa <em>waa</em> waa!</p>
 ]]></content>
   </entry>
   
