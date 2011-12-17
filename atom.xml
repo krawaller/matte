@@ -4,7 +4,7 @@
   <title><![CDATA[WUUU!!]]></title>
   <link href="http://krawaller.github.com/matte/atom.xml" rel="self"/>
   <link href="http://krawaller.github.com/matte/"/>
-  <updated>2011-12-17T16:42:03+01:00</updated>
+  <updated>2011-12-17T16:46:20+01:00</updated>
   <id>http://krawaller.github.com/matte/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[testing FFS]]></title>
+    <link href="http://krawaller.github.com/matte/blog/2011/12/17/testing/"/>
+    <updated>2011-12-17T16:45:00+01:00</updated>
+    <id>http://krawaller.github.com/matte/blog/2011/12/17/testing</id>
+    <content type="html"><![CDATA[<p>WEE WUU</p>
+]]></content>
+  </entry>
   
 </feed>
