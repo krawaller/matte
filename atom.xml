@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[WUUU!!]]></title>
+  <title><![CDATA[Mattebloggen]]></title>
   <link href="http://krawaller.github.com/matte/atom.xml" rel="self"/>
   <link href="http://krawaller.github.com/matte/"/>
-  <updated>2011-12-17T16:46:20+01:00</updated>
+  <updated>2011-12-17T17:26:11+01:00</updated>
   <id>http://krawaller.github.com/matte/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[David Waller]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
